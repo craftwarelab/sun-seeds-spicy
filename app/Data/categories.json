@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "name": "Spices & Seasonings",
+      "products": [
+        { "name": "Chilli Powder", "slug": "chilli-powder" },
+        { "name": "Chilli Flakes", "slug": "chilli-flakes" },
+        { "name": "Raw Curry Powder", "slug": "raw-curry-powder" },
+        { "name": "Roasted Curry Powder", "slug": "roasted-curry-powder" },
+        { "name": "Turmeric Powder", "slug": "turmeric-powder" },
+        { "name": "Black Pepper Powder", "slug": "black-pepper-powder" },
+        { "name": "Rasam Powder", "slug": "rasam-powder" },
+        { "name": "Goraka Paste", "slug": "goraka-paste" },
+        { "name": "Goraka Powder", "slug": "goraka-powder" },
+        { "name": "Cinnamon Powder", "slug": "cinnamon-powder" },
+        { "name": "Masala Coffee", "slug": "masala-coffee-1" }
+      ]
+    },
+    {
+      "name": "Herbal Teas & Wellness Drinks",
+      "products": [
+        { "name": "Slim Powder Tea Bag", "slug": "slim-powder-tea-bag" },
+        { "name": "Dehydrated Moringa Powder Tea Bag", "slug": "dehydrated-moringa-powder-tea-bag" },
+        { "name": "Coffee Powder", "slug": "coffee-powder" },
+        { "name": "Masala Coffee", "slug": "masala-coffee-2" },
+        { "name": "Collagen Powder", "slug": "collagen-powder-1" }
+      ]
+    },
+    {
+      "name": "Superfood Powders",
+      "products": [
+        { "name": "Gotukola Powder", "slug": "gotukola-powder" },
+        { "name": "Rose Petal Powder", "slug": "rose-petal-powder" },
+        { "name": "Collagen Powder", "slug": "collagen-powder-2" },
+        { "name": "Moringa Powder", "slug": "moringa-powder" },
+        { "name": "Cinnamon Powder", "slug": "cinnamon-powder-2" }
+      ]
+    },
+    {
+      "name": "Healthy Snacks & Add-ons",
+      "products": [
+        { "name": "Dehydrated Jackfruit Bite", "slug": "dehydrated-jackfruit-bite" }
+      ]
+    }
+  ]
+}

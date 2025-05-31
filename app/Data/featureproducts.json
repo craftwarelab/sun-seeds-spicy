@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Moringa Powder",
+      "desc": "We craft pure Moringa Powder packed with natural nutrients to help strengthen your immune system and energize your day.",
+      "code": "MP001",
+      "image": "/Flour-1.png"
+    },
+    {
+      "name": "Rose Petal Powder",
+      "desc": "We delicately dry and grind fresh rose petals to create a gentle powder perfect for natural beauty and wellness routines.",
+      "code": "RP001",
+      "image": "/Flour-1.png"
+    },
+    {
+      "name": "Masala Coffee",
+      "desc": "We blend aromatic spices with rich coffee to offer a bold, energizing drink rooted in tradition and taste.",
+      "code": "MC001",
+      "image": "/Flour-1.png"
+    },
+    {
+      "name": "Roasted Curry Powder",
+      "desc": "We roast and grind select spices to make flavorful curry powder that brings authentic Sri Lankan taste to every meal.",
+      "code": "RCP001",
+      "image": "/Flour-1.png"
+    },
+    {
+      "name": "Collagen Powder",
+      "desc": "We offer high-quality collagen to support radiant skin, strong joints, and overall daily vitality.",
+      "code": "CP001",
+      "image": "/Flour-1.png"
+    },
+    {
+      "name": "Rasam Powder",
+      "desc": "We mix tangy and spicy ingredients into a ready-to-use Rasam blend, ideal for comforting, healing soups.",
+      "code": "RPW001",
+      "image": "/Flour-1.png"
+    }
+  ]
+}
