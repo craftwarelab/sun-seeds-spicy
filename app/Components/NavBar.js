@@ -193,7 +193,7 @@ const NavBar = () => {
         </div>
         {/* Mobile Menu */}
         {isOpen && (
-          <div className="absolute md:hidden top-14 left-0 w-full p-4 z-10 h-screen overflow-y-auto bg-white">
+          <div className="absolute md:hidden top-14 left-0 w-full p-4 z-10 h-screen bg-white">
             {/* Main menu */}
             <div
               className={`transition-transform duration-300 ${
@@ -253,7 +253,7 @@ const NavBar = () => {
                 <FaChevronRight className="rotate-180 mr-2" size={16} />
                 Back
               </button>
-              <div className="pl-2">
+              <div className="pl-2 h-screen overflow-y-auto">
                 {categories.map((category, i) => (
                   <div key={i}>
                     <div className="font-semibold py-2">{category.name}</div>
