@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { FiMenu, FiChevronDown, FiX } from "react-icons/fi";
 import { FaChevronRight } from "react-icons/fa";
-import categoriesData from "../data/categories.json";
+import categoriesData from "../Data/categories.json";
 
 const NavBar = () => {
   const categories = categoriesData.categories || [];
