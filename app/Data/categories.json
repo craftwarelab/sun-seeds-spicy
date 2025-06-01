@@ -11,9 +11,7 @@
         { "name": "Black Pepper Powder", "slug": "black-pepper-powder" },
         { "name": "Rasam Powder", "slug": "rasam-powder" },
         { "name": "Goraka Paste", "slug": "goraka-paste" },
-        { "name": "Goraka Powder", "slug": "goraka-powder" },
-        { "name": "Cinnamon Powder", "slug": "cinnamon-powder" },
-        { "name": "Masala Coffee", "slug": "masala-coffee-1" }
+        { "name": "Goraka Powder", "slug": "goraka-powder" }
       ]
     },
     {
@@ -22,8 +20,7 @@
         { "name": "Slim Powder Tea Bag", "slug": "slim-powder-tea-bag" },
         { "name": "Dehydrated Moringa Powder Tea Bag", "slug": "dehydrated-moringa-powder-tea-bag" },
         { "name": "Coffee Powder", "slug": "coffee-powder" },
-        { "name": "Masala Coffee", "slug": "masala-coffee-2" },
-        { "name": "Collagen Powder", "slug": "collagen-powder-1" }
+        { "name": "Masala Coffee", "slug": "masala-coffee" }
       ]
     },
     {
@@ -31,9 +28,9 @@
       "products": [
         { "name": "Gotukola Powder", "slug": "gotukola-powder" },
         { "name": "Rose Petal Powder", "slug": "rose-petal-powder" },
-        { "name": "Collagen Powder", "slug": "collagen-powder-2" },
+        { "name": "Collagen Powder", "slug": "collagen-powder" },
         { "name": "Moringa Powder", "slug": "moringa-powder" },
-        { "name": "Cinnamon Powder", "slug": "cinnamon-powder-2" }
+        { "name": "Cinnamon Powder", "slug": "cinnamon-powder" }
       ]
     },
     {

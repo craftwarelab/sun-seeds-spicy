@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "name": "Moringa Powder",
+      "slug": "moringa-powder",
+      "desc": "A nutrient-rich superfood powder made from dried Moringa leaves, perfect for boosting immunity and energy.",
+      "code": "MP001",
+      "image": "/products/moringa-powder-for-weight-loss-732x549-thumbnail-732x549.avif",
+      "features": [
+        "100% natural and organic",
+        "Rich in vitamins and minerals",
+        "Supports immune health"
+      ]
+    },
+    {
+      "name": "Rose Petal Powder",
+      "slug": "rose-petal-powder",
+      "desc": "A fragrant, all-natural powder made from dried rose petals, ideal for skincare and wellness uses.",
+      "code": "RP001",
+      "image": "/products/benefits-of-rose-powder-for-skin.jpg",
+      "features": [
+        "Gentle on skin",
+        "Perfect for face masks",
+        "No additives or preservatives"
+      ]
+    },
+    {
+      "name": "Turmeric Powder",
+      "slug": "turmeric-powder",
+      "desc": "Pure turmeric powder with high curcumin content, great for cooking and health.",
+      "code": "TP001",
+      "image": "/products/turmeric-powder.jpg",
+      "features": [
+        "High curcumin content",
+        "Anti-inflammatory properties",
+        "Ideal for curries and wellness drinks"
+      ]
+    },
+    {
+      "name": "Ceylon Cinnamon Sticks",
+      "slug": "ceylon-cinnamon-sticks",
+      "desc": "Premium Ceylon cinnamon sticks, perfect for desserts, drinks, and health remedies.",
+      "code": "CS001",
+      "image": "/products/cinnamon-sticks.jpeg",
+      "features": [
+        "True Ceylon cinnamon",
+        "Sweet aroma and flavor",
+        "Supports blood sugar balance"
+      ]
+    },
+    {
+      "name": "Ginger Tea",
+      "slug": "ginger-tea",
+      "desc": "A soothing herbal tea blend made from natural ginger roots, ideal for digestion and relaxation.",
+      "code": "GT001",
+      "image": "/products/ginger-tea.jpeg",
+      "features": [
+        "Aids digestion",
+        "Warming and soothing",
+        "Caffeine-free"
+      ]
+    },
+    {
+      "name": "Coconut Flour",
+      "slug": "coconut-flour",
+      "desc": "Gluten-free coconut flour, perfect for healthy baking and cooking.",
+      "code": "CF001",
+      "image": "/products/coconut-flour.webp",
+      "features": [
+        "Gluten-free",
+        "High in fiber",
+        "Low carb alternative"
+      ]
+    },
+    {
+      "name": "Neem Powder",
+      "slug": "neem-powder",
+      "desc": "Finely ground neem leaves for natural wellness and skincare.",
+      "code": "NP001",
+      "image": "/products/neem-leaf-powder.webp",
+      "features": [
+        "Supports skin health",
+        "Detoxifying properties",
+        "Traditionally used in Ayurveda"
+      ]
+    },
+    {
+      "name": "Gotukola Powder",
+      "slug": "gotukola-powder",
+      "desc": "Gotukola powder for cognitive support and overall wellness.",
+      "code": "GK001",
+      "image": "/products/gotukola-powder.jpeg",
+      "features": [
+        "Supports brain function",
+        "Rich in antioxidants",
+        "Used in traditional Sri Lankan cuisine"
+      ]
+    },
+    {
+      "name": "Black Pepper",
+      "slug": "black-pepper",
+      "desc": "Whole black peppercorns, freshly packed for maximum flavor.",
+      "code": "BP001",
+      "image": "/products/black-pepper.jpg",
+      "features": [
+        "Fresh and aromatic",
+        "Enhances flavor of dishes",
+        "Rich in piperine"
+      ]
+    },
+    {
+      "name": "Clove",
+      "slug": "clove",
+      "desc": "High-quality whole cloves, perfect for culinary and medicinal uses.",
+      "code": "CL001",
+      "image": "/products/clove.webp",
+      "features": [
+        "Strong aroma",
+        "Natural antiseptic",
+        "Essential for spice blends"
+      ]
+    },
+    {
+      "name": "Slim Powder Tea Bag",
+      "slug": "slim-powder-tea-bag",
+      "desc": "A blend of natural herbs in convenient tea bags to support your wellness journey.",
+      "code": "SPT001",
+      "image": "/products/slim-powder-tea-bag.jpg",
+      "features": [
+        "Supports metabolism",
+        "Easy to brew",
+        "Refreshing taste"
+      ]
+    },
+    {
+      "name": "Dehydrated Moringa Powder Tea Bag",
+      "slug": "dehydrated-moringa-powder-tea-bag",
+      "desc": "Tea bags filled with dehydrated moringa powder for a healthy, energizing drink.",
+      "code": "DMPT001",
+      "image": "/products/dehydrated-moringa-powder-tea-bag.webp",
+      "features": [
+        "Rich in nutrients",
+        "Convenient tea bags",
+        "Boosts energy"
+      ]
+    },
+    {
+      "name": "Coffee Powder",
+      "slug": "coffee-powder",
+      "desc": "Finely ground coffee powder for a rich and aromatic cup every time.",
+      "code": "CP001",
+      "image": "/products/coffee-powder.png",
+      "features": [
+        "Rich aroma",
+        "Finely ground",
+        "Perfect for filter coffee"
+      ]
+    },
+    {
+      "name": "Masala Coffee",
+      "slug": "masala-coffee",
+      "desc": "A unique blend of coffee and spices for a warming, flavorful beverage.",
+      "code": "MC001",
+      "image": "/products/masala-coffee.webp",
+      "features": [
+        "Spiced blend",
+        "Invigorating taste",
+        "Traditional recipe"
+      ]
+    },
+    {
+      "name": "Collagen Powder",
+      "slug": "collagen-powder",
+      "desc": "Natural collagen powder to support skin, hair, and joint health.",
+      "code": "CPW001",
+      "image": "/products/MATCHA.jpg",
+      "features": [
+        "Supports skin elasticity",
+        "Promotes joint health",
+        "Easily dissolves"
+      ]
+    },
+    {
+      "name": "Cinnamon Powder",
+      "slug": "cinnamon-powder",
+      "desc": "Finely ground Ceylon cinnamon powder for baking, drinks, and more.",
+      "code": "CNP001",
+      "image": "/products/cinnamon-powder.jpg",
+      "features": [
+        "Sweet and aromatic",
+        "Pure Ceylon cinnamon",
+        "Perfect for desserts"
+      ]
+    },
+    {
+      "name": "Dehydrated Jackfruit Bite",
+      "slug": "dehydrated-jackfruit-bite",
+      "desc": "Healthy, chewy snacks made from dehydrated jackfruit pieces.",
+      "code": "DJB001",
+      "image": "/products/dehydrated-jackfruit-bite.webp",
+      "features": [
+        "No added sugar",
+        "Rich in fiber",
+        "Delicious and healthy"
+      ]
+    },
+    {
+      "name": "Chilli Powder",
+      "slug": "chilli-powder",
+      "desc": "Pure, spicy chilli powder for all your cooking needs.",
+      "code": "CHP001",
+      "image": "/products/chilli-powder.jpeg",
+      "features": [
+        "Hot and flavorful",
+        "Sun-dried chillies",
+        "No artificial colors"
+      ]
+    },
+    {
+      "name": "Chilli Flakes",
+      "slug": "chilli-flakes",
+      "desc": "Crushed red chilli flakes to add heat and flavor.",
+      "code": "CHF001",
+      "image": "/products/chilli-flakes.webp",
+      "features": [
+        "Perfect for pizza and pasta",
+        "Sun-dried",
+        "No preservatives"
+      ]
+    },
+    {
+      "name": "Raw Curry Powder",
+      "slug": "raw-curry-powder",
+      "desc": "A blend of raw spices for authentic Sri Lankan curries.",
+      "code": "RCP001",
+      "image": "/products/raw-curry-powder.png",
+      "features": [
+        "Traditional blend",
+        "No additives",
+        "Rich aroma"
+      ]
+    },
+    {
+      "name": "Roasted Curry Powder",
+      "slug": "roasted-curry-powder",
+      "desc": "Roasted curry powder for deep, robust flavor.",
+      "code": "RCP002",
+      "image": "/products/roasted-curry-powder.jpg",
+      "features": [
+        "Slow roasted",
+        "Full-bodied taste",
+        "Perfect for meat curries"
+      ]
+    },
+    {
+      "name": "Black Pepper Powder",
+      "slug": "black-pepper-powder",
+      "desc": "Finely ground black pepper for seasoning.",
+      "code": "BPP001",
+      "image": "/products/black-pepper-powder.webp",
+      "features": [
+        "Freshly ground",
+        "Strong aroma",
+        "Enhances any dish"
+      ]
+    },
+    {
+      "name": "Rasam Powder",
+      "slug": "rasam-powder",
+      "desc": "Aromatic rasam powder for tangy South Indian soups.",
+      "code": "RSP001",
+      "image": "/products/rasam-powder.jpg",
+      "features": [
+        "Tangy and spicy",
+        "Traditional recipe",
+        "Easy to use"
+      ]
+    },
+    {
+      "name": "Goraka Paste",
+      "slug": "goraka-paste",
+      "desc": "Ready-to-use goraka paste for authentic Sri Lankan dishes.",
+      "code": "GKP001",
+      "image": "/products/goraka-paste.jpg",
+      "features": [
+        "Sour and tangy",
+        "No preservatives",
+        "Convenient paste"
+      ]
+    },
+    {
+      "name": "Goraka Powder",
+      "slug": "goraka-powder",
+      "desc": "Finely ground goraka powder for curries and marinades.",
+      "code": "GKP002",
+      "image": "/products/goraka-powder.webp",
+      "features": [
+        "Sour flavor",
+        "Easy to use",
+        "No additives"
+      ]
+    }
+  ]
+}

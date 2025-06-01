@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 
 const Banners = () => {
-    const images = ["/Banners/Image_fx (9).jpg", "/Banners/Image_fx (10).jpg", "/Banners/Image_fx (12).jpg"];
+    const images = ["/Banners/organic_spicey (3).jpg", "/Banners/organic_spicey (2).jpg", "/Banners/organic_spicey (1).jpg"];
 const [current, setCurrent] = useState(0);
   const timeoutRef = useRef(null);
   const touchStartX = useRef(null);
@@ -47,7 +47,7 @@ const [current, setCurrent] = useState(0);
               alt={`Banner ${i + 1}`}
               width={1200}
               height={400}
-              className="w-full h-[180px] sm:h-[300px] md:h-[400px] object-cover"
+              className="w-full h-[180px] sm:h-[300px] md:h-screen object-cover"
               priority={i === 0}
             />
           </div>

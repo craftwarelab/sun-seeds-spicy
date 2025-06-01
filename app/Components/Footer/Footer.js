@@ -1,72 +1,103 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Link from "next/link";
 
 const Footer = () => {
   return (
-    <div className="block bg-[#e3f2d4] px-8 sm:px-20 pt-8 sm:pt-20">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 pb-20 gap-6 md:gap-16 ">
-        <div className="flex flex-col justify-start items-start space-y-4 p-2">
-          <h1 className="font-semibold text-lg">Sun Seeds Products Pvt(Ltd)</h1>
-          <p className="text-gray-600 !text-[14px]">
+    <footer className="bg-[#f2e8d9] px-8 sm:px-20 pt-12 pb-4 border-t border-gray-500">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-16 pb-10">
+        {/* Brand */}
+        <div className="flex flex-col items-start space-y-4">
+          <h2 className="font-semibold text-lg text-[#7a9352]">
+            Sun Seeds Products Pvt (Ltd)
+          </h2>
+          <p className="text-gray-600 text-sm">
             Sri Lanka&apos;s trusted source for natural spices, herbal teas,
             superfoods, and healthy snacks. Quality you can taste, wellness you
             can trust.
           </p>
         </div>
-        <div className="flex flex-col justify-start items-start space-y-4 p-2">
-          <h1 className="font-semibold text-lg">About</h1>
-          <Link href={"/"} className="">
-            <span className="text-gray-600 hover:text-gray-950 !text-[14px] cursor-pointer">
-              Contact Us
-            </span>
+        {/* About */}
+        <div className="flex flex-col items-start space-y-4">
+          <h2 className="font-semibold text-lg text-[#7a9352]">About</h2>
+          <Link
+            href="/about"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            About Us
+          </Link>
+          <Link
+            href="/blogs"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Blog
+          </Link>
+          <Link
+            href="/contact-us"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Contact Us
           </Link>
         </div>
-        <div className="flex flex-col justify-start items-start space-y-4 p-2">
-          <h1 className="font-semibold text-lg">Support</h1>
-          
-          <Link href={"/"} className="">
-            <span className="text-gray-600 hover:text-gray-950 !text-[14px] cursor-pointer">
-              Shipping
-            </span>
+        {/* Support */}
+        <div className="flex flex-col items-start space-y-4">
+          <h2 className="font-semibold text-lg text-[#7a9352]">Support</h2>
+          <Link
+            href="/shipping"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Shipping
           </Link>
-          <Link href={"/"} className="">
-            <span className="text-gray-600 hover:text-gray-950 !text-[14px] cursor-pointer">
-              FAQs
-            </span>
+          <Link
+            href="/faq"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            FAQs
           </Link>
-          <Link href={"/"} className="">
-            <span className="text-gray-600 hover:text-gray-950 !text-[14px] cursor-pointer">
-              Terms & Conditions
-            </span>
+          <Link
+            href="/termsandcondition"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Terms &amp; Conditions
           </Link>
         </div>
-        <div className="flex flex-col justify-start items-start space-y-4 p-2">
-          <h1 className="font-semibold text-lg">Get in Touch</h1>
-          <span className="text-gray-600 !text-[14px] cursor-pointer">
-           Address, colombo, sri lanka
-          </span>
-            <span className="text-gray-600 !text-[14px] cursor-pointer">
-           Email: sunseedscolombo@gmail.com
-          </span>
-           <span className="text-gray-600 !text-[14px] cursor-pointer">
-           Phone: 123456789
-          </span>
+        {/* Contact */}
+        <div className="flex flex-col items-start space-y-4">
+          <h2 className="font-semibold text-lg text-[#7a9352]">Get in Touch</h2>
+          <address className="not-italic text-gray-600 text-sm">
+            Address: Colombo, Sri Lanka
+          </address>
+          <a
+            href="mailto:sunseedscolombo@gmail.com"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Email: sunseedscolombo@gmail.com
+          </a>
+          <a
+            href="tel:123456789"
+            className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
+          >
+            Phone: 123456789
+          </a>
         </div>
       </div>
-      <div className="flex justify-start items-center pb-1.5 p-2">
+      <div className="flex justify-between items-center border-t border-gray-500 pt-4">
+        <span className="text-xs text-gray-500">
+          &copy; {new Date().getFullYear()} Sun Seeds Products Pvt (Ltd). All
+          rights reserved.
+        </span>
         <a
           href="https://www.craftwarelab.com"
           target="_blank"
           rel="noopener noreferrer"
+          className="text-xs text-gray-500 hover:text-[#7a9352] transition-colors"
         >
-          <span className="!text-[12px] font-extralight text-gray-600 hover:text-gray-950 cursor-pointer">
-            Developed by Craftwarelab
-          </span>
+          Developed by Craftwarelab
         </a>
       </div>
-    </div>
+    </footer>
   );
 };
+
 export default Footer;
