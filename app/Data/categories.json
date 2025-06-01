@@ -18,9 +18,22 @@
       "name": "Herbal Teas & Wellness Drinks",
       "products": [
         { "name": "Slim Powder Tea Bag", "slug": "slim-powder-tea-bag" },
-        { "name": "Dehydrated Moringa Powder Tea Bag", "slug": "dehydrated-moringa-powder-tea-bag" },
+        {
+          "name": "Dehydrated Moringa Powder Tea Bag",
+          "slug": "dehydrated-moringa-powder-tea-bag"
+        },
         { "name": "Coffee Powder", "slug": "coffee-powder" },
-        { "name": "Masala Coffee", "slug": "masala-coffee" }
+        { "name": "Masala Coffee", "slug": "masala-coffee" },
+        { "name": "Ginger Ccardamom Tea", "slug": "ginger-cardamom-tea" },
+        { "name": "Curry Leaves Powder", "slug": "dried-curry-leaves-powder" },
+        {
+          "name": "Thebu Dried Leaf Powder",
+          "slug": "thebu-dried-leaf-planta-de-insulina"
+        },
+        {
+          "name": "Hibiscus Dried Flowers Tea",
+          "slug": "hibiscus-dried-flowers"
+        }
       ]
     },
     {
@@ -30,13 +43,37 @@
         { "name": "Rose Petal Powder", "slug": "rose-petal-powder" },
         { "name": "Collagen Powder", "slug": "collagen-powder" },
         { "name": "Moringa Powder", "slug": "moringa-powder" },
-        { "name": "Cinnamon Powder", "slug": "cinnamon-powder" }
+        { "name": "Cinnamon Powder", "slug": "cinnamon-powder" },
+        {
+          "name": "Ladys Finger Powder",
+          "slug": "okra-ladys-finger-ground-powder"
+        },
+        {
+          "name": "Carrot Powder",
+          "slug": "carrot-powder"
+        },
+          {
+          "name": "Beat Powder",
+          "slug": "beet-powder"
+        },
+         {
+          "name": "Jack Fruit Seeds Powder",
+          "slug": "jack-fruit-seeds-powder"
+        }
+        
       ]
     },
     {
       "name": "Healthy Snacks & Add-ons",
       "products": [
-        { "name": "Dehydrated Jackfruit Bite", "slug": "dehydrated-jackfruit-bite" }
+        {
+          "name": "Dehydrated Jackfruit Bite",
+          "slug": "dehydrated-jackfruit-bite"
+        },
+        {
+          "name": "Dehydrated Vegetable Flakes",
+          "slug": "dehydrated-vegetable-flakes"
+        }
       ]
     }
   ]

@@ -49,27 +49,16 @@
       ]
     },
     {
-      "name": "Ginger Tea",
-      "slug": "ginger-tea",
-      "desc": "A soothing herbal tea blend made from natural ginger roots, ideal for digestion and relaxation.",
-      "code": "GT001",
-      "image": "/products/ginger-tea.jpeg",
+      "name": "Ginger Cardamom Tea",
+      "slug": "ginger-cardamom-tea",
+      "desc": "A fragrant blend of ginger and cardamom, this herbal tea is perfect for soothing your senses and supporting digestion.",
+      "code": "GCT001",
+      "image": "/products/Cardamom-Ginger-tea.jpg",
       "features": [
-        "Aids digestion",
-        "Warming and soothing",
-        "Caffeine-free"
-      ]
-    },
-    {
-      "name": "Coconut Flour",
-      "slug": "coconut-flour",
-      "desc": "Gluten-free coconut flour, perfect for healthy baking and cooking.",
-      "code": "CF001",
-      "image": "/products/coconut-flour.webp",
-      "features": [
-        "Gluten-free",
-        "High in fiber",
-        "Low carb alternative"
+        "Warming and aromatic",
+        "Supports healthy digestion",
+        "Naturally caffeine-free",
+        "Traditional Sri Lankan blend"
       ]
     },
     {
@@ -126,11 +115,7 @@
       "desc": "A blend of natural herbs in convenient tea bags to support your wellness journey.",
       "code": "SPT001",
       "image": "/products/slim-powder-tea-bag.jpg",
-      "features": [
-        "Supports metabolism",
-        "Easy to brew",
-        "Refreshing taste"
-      ]
+      "features": ["Supports metabolism", "Easy to brew", "Refreshing taste"]
     },
     {
       "name": "Dehydrated Moringa Powder Tea Bag",
@@ -138,11 +123,7 @@
       "desc": "Tea bags filled with dehydrated moringa powder for a healthy, energizing drink.",
       "code": "DMPT001",
       "image": "/products/dehydrated-moringa-powder-tea-bag.webp",
-      "features": [
-        "Rich in nutrients",
-        "Convenient tea bags",
-        "Boosts energy"
-      ]
+      "features": ["Rich in nutrients", "Convenient tea bags", "Boosts energy"]
     },
     {
       "name": "Coffee Powder",
@@ -150,11 +131,7 @@
       "desc": "Finely ground coffee powder for a rich and aromatic cup every time.",
       "code": "CP001",
       "image": "/products/coffee-powder.png",
-      "features": [
-        "Rich aroma",
-        "Finely ground",
-        "Perfect for filter coffee"
-      ]
+      "features": ["Rich aroma", "Finely ground", "Perfect for filter coffee"]
     },
     {
       "name": "Masala Coffee",
@@ -162,11 +139,7 @@
       "desc": "A unique blend of coffee and spices for a warming, flavorful beverage.",
       "code": "MC001",
       "image": "/products/masala-coffee.webp",
-      "features": [
-        "Spiced blend",
-        "Invigorating taste",
-        "Traditional recipe"
-      ]
+      "features": ["Spiced blend", "Invigorating taste", "Traditional recipe"]
     },
     {
       "name": "Collagen Powder",
@@ -198,11 +171,7 @@
       "desc": "Healthy, chewy snacks made from dehydrated jackfruit pieces.",
       "code": "DJB001",
       "image": "/products/dehydrated-jackfruit-bite.webp",
-      "features": [
-        "No added sugar",
-        "Rich in fiber",
-        "Delicious and healthy"
-      ]
+      "features": ["No added sugar", "Rich in fiber", "Delicious and healthy"]
     },
     {
       "name": "Chilli Powder",
@@ -234,11 +203,7 @@
       "desc": "A blend of raw spices for authentic Sri Lankan curries.",
       "code": "RCP001",
       "image": "/products/raw-curry-powder.png",
-      "features": [
-        "Traditional blend",
-        "No additives",
-        "Rich aroma"
-      ]
+      "features": ["Traditional blend", "No additives", "Rich aroma"]
     },
     {
       "name": "Roasted Curry Powder",
@@ -258,11 +223,7 @@
       "desc": "Finely ground black pepper for seasoning.",
       "code": "BPP001",
       "image": "/products/black-pepper-powder.webp",
-      "features": [
-        "Freshly ground",
-        "Strong aroma",
-        "Enhances any dish"
-      ]
+      "features": ["Freshly ground", "Strong aroma", "Enhances any dish"]
     },
     {
       "name": "Rasam Powder",
@@ -270,11 +231,7 @@
       "desc": "Aromatic rasam powder for tangy South Indian soups.",
       "code": "RSP001",
       "image": "/products/rasam-powder.jpg",
-      "features": [
-        "Tangy and spicy",
-        "Traditional recipe",
-        "Easy to use"
-      ]
+      "features": ["Tangy and spicy", "Traditional recipe", "Easy to use"]
     },
     {
       "name": "Goraka Paste",
@@ -282,11 +239,7 @@
       "desc": "Ready-to-use goraka paste for authentic Sri Lankan dishes.",
       "code": "GKP001",
       "image": "/products/goraka-paste.jpg",
-      "features": [
-        "Sour and tangy",
-        "No preservatives",
-        "Convenient paste"
-      ]
+      "features": ["Sour and tangy", "No preservatives", "Convenient paste"]
     },
     {
       "name": "Goraka Powder",
@@ -294,10 +247,110 @@
       "desc": "Finely ground goraka powder for curries and marinades.",
       "code": "GKP002",
       "image": "/products/goraka-powder.webp",
+      "features": ["Sour flavor", "Easy to use", "No additives"]
+    },
+    {
+      "name": "HIBISCUS Dried Flowers",
+      "slug": "hibiscus-dried-flowers",
+      "desc": "Premium dried hibiscus flowers, perfect for herbal teas, infusions, and natural remedies.",
+      "code": "HDF001",
+      "image": "/products/hibiscus-dried-flowers.webp",
       "features": [
-        "Sour flavor",
-        "Easy to use",
-        "No additives"
+        "Rich in antioxidants",
+        "Supports heart health",
+        "Naturally caffeine-free",
+        "Vibrant color and tangy flavor"
+      ]
+    },
+    {
+      "name": "Thebu Dried Leaf (Planta de Insulina)",
+      "slug": "thebu-dried-leaf-planta-de-insulina",
+      "desc": "Dried Thebu (Costus igneus) leaves, also known as Planta de Insulina, traditionally used to support healthy blood sugar levels.",
+      "code": "TDL001",
+      "image": "/products/thebu-dried-leaf.webp",
+      "features": [
+        "Supports healthy blood sugar",
+        "Rich in antioxidants",
+        "Used in traditional herbal remedies",
+        "Caffeine-free natural tea ingredient"
+      ]
+    },
+    {
+      "name": "Dried Curry Leaves Powder",
+      "slug": "dried-curry-leaves-powder",
+      "desc": "Aromatic dried curry leaves powder, perfect for seasoning and enhancing the flavor of your favorite dishes.",
+      "code": "DCLP001",
+      "image": "/products/dried-curry-leaves-powder.webp",
+      "features": [
+        "Rich in antioxidants",
+        "Enhances flavor of curries and rice",
+        "Convenient and easy to use",
+        "No additives or preservatives"
+      ]
+    },
+    {
+      "name": "Dehydrated Vegetable Flakes",
+      "slug": "dehydrated-vegetable-flakes",
+      "desc": "A convenient blend of dehydrated vegetable flakes, perfect for soups, stews, and instant meals.",
+      "code": "DVF001",
+      "image": "/products/dehydrated-vegetable-flakes.webp",
+      "features": [
+        "Made from 100% natural vegetables",
+        "No added preservatives or colors",
+        "Quick and easy to use",
+        "Retains natural flavor and nutrients"
+      ]
+    },
+    {
+      "name": "Okra (Lady's Finger) Ground Powder",
+      "slug": "okra-ladys-finger-ground-powder",
+      "desc": "Finely ground okra (lady's finger) powder, ideal for adding nutrition and thickness to soups, stews, and traditional dishes.",
+      "code": "OKR001",
+      "image": "/products/okra-ground-powder.webp",
+      "features": [
+        "Rich in fiber and nutrients",
+        "Natural thickener for recipes",
+        "Supports digestive health",
+        "No additives or preservatives"
+      ]
+    },
+    {
+      "name": "Carrot Powder",
+      "slug": "carrot-powder",
+      "desc": "Pure carrot powder made from dehydrated carrots, perfect for smoothies, baking, soups, and natural coloring.",
+      "code": "CRP001",
+      "image": "/products/carrot-powder.webp",
+      "features": [
+        "Rich in beta-carotene and vitamins",
+        "Natural sweet flavor",
+        "No additives or preservatives",
+        "Easy to use in recipes"
+      ]
+    },
+    {
+      "name": "Beet Powder",
+      "slug": "beet-powder",
+      "desc": "Vibrant beet powder made from dehydrated beetroots, perfect for smoothies, baking, and natural coloring.",
+      "code": "BTP001",
+      "image": "/products/beat-root-powder.jpeg",
+      "features": [
+        "Rich in antioxidants and nitrates",
+        "Supports heart health",
+        "Natural colorant for foods",
+        "No additives or preservatives"
+      ]
+    },
+    {
+      "name": "Jack Fruit Seeds Powder",
+      "slug": "jack-fruit-seeds-powder",
+      "desc": "Finely ground jackfruit seeds powder, rich in nutrients and perfect for adding to smoothies, baking, and traditional recipes.",
+      "code": "JFSP001",
+      "image": "/products/jack-fruit-seeds-powder.webp",
+      "features": [
+        "High in protein and fiber",
+        "Gluten-free and vegan",
+        "Supports digestive health",
+        "No additives or preservatives"
       ]
     }
   ]

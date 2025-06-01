@@ -66,19 +66,19 @@ const Footer = () => {
         <div className="flex flex-col items-start space-y-4">
           <h2 className="font-semibold text-lg text-[#7a9352]">Get in Touch</h2>
           <address className="not-italic text-gray-600 text-sm">
-            Address: Colombo, Sri Lanka
+            Address: 159/3, Kalapugama Road, Walauwatta, Moronthuduwa, Sri Lanka
           </address>
-          <a
+          {/* <a
             href="mailto:sunseedscolombo@gmail.com"
             className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
           >
             Email: sunseedscolombo@gmail.com
-          </a>
+          </a> */}
           <a
-            href="tel:123456789"
+            href="tel:+94768582692"
             className="text-gray-600 hover:text-[#7a9352] text-sm transition-colors"
           >
-            Phone: 123456789
+            Phone: +94 76 858 2692
           </a>
         </div>
       </div>

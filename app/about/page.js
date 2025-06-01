@@ -38,9 +38,9 @@ export default function About() {
           Contact Us
         </h2>
         <p className="text-gray-700 text-center">
-          Address: Colombo, Sri Lanka<br />
-          Email: <a href="mailto:sunseedscolombo@gmail.com" className="text-[#7a9352] underline">sunseedscolombo@gmail.com</a><br />
-          Phone: 123456789
+          Address: 159/3, Kalapugama Road, Walauwatta, Moronthuduwa, Sri Lanka<br />
+          {/* Email: <a href="mailto:sunseedscolombo@gmail.com" className="text-[#7a9352] underline">sunseedscolombo@gmail.com</a><br /> */}
+          Phone: +94 76 858 2692
         </p>
       </div>
     </div>

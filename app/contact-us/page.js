@@ -66,14 +66,14 @@ export default function ContactUs() {
           </form>
         )}
         <div className="mt-8 text-gray-700 text-center text-sm">
-          <div>Address: Colombo, Sri Lanka</div>
-          <div>
+          <div>Address: 159/3, Kalapugama Road, Walauwatta, Moronthuduwa, Sri Lanka</div>
+          {/* <div>
             Email:{" "}
             <a href="mailto:sunseedscolombo@gmail.com" className="text-[#7a9352] underline">
               sunseedscolombo@gmail.com
             </a>
-          </div>
-          <div>Phone: 123456789</div>
+          </div> */}
+          <div>Phone: +94 76 858 2692</div>
         </div>
       </div>
     </div>

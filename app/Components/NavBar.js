@@ -69,7 +69,7 @@ const NavBar = () => {
             className="h-8 w-auto"
           />
           <span className="text-[25px] font-semibold select-none cursor-pointer">
-            SUN SEEDS FOODS
+            SUN SEEDS PRODUCTS
           </span>
         </div>
         {/* Mobile Hamburger */}
